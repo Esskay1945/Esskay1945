@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a third-year Computer Science Engineering student specializing <br>in Data Science, with strong expertise in full-stack web development <br>and Python programming. I have a proven track record in data analytics<br>, cloud computing, and generative AI through multiple industry <br>simulations. I am an active leader in college technical clubs, with <br>hands-on experience in event management, design strategy, and <br>education. I am passionate about leveraging technology to solve real-<br>world problems through data-driven solutions.<br>
+
+I am a third-year Computer Science Engineering student specializing in Data Science, with strong expertise in full-stack web development and Python programming. I have a proven track record in data analytics, cloud computing, and generative AI through multiple industry simulations. I am an active leader in college technical clubs, with hands-on experience in event management, design strategy, and education. I am passionate about leveraging technology to solve real-world problems through data-driven solutions.<br>
 
 
 ## 🌐 Socials:
