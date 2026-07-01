@@ -1,14 +1,5 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hi there 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Engineer;Research-Oriented+Software+Engineer;IEEE+Research+Author;Building+AI-Powered+Solutions" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Siddharth%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Researcher&descAlignY=55"/>
-</p>
-
----
 
 # 💫 About Me
 
